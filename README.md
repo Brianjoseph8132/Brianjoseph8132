@@ -13,7 +13,7 @@
 - 💞️ I’m looking to collaborate on open-source projects, innovative startups, and anything that pushes the limits of tech.
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Coding
+- ⚡ Fun fact: "Programming is like dating: at first, everything is exciting and new… then you spend the rest of your time figuring out where you went wrong. 😅💔"
 
 ---
 
